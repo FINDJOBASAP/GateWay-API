@@ -1,2 +1,1 @@
 # Gate Way API
-yabsmlah
